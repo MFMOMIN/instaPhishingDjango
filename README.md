@@ -20,6 +20,7 @@ after this command some details it ask like email id and password to set on admi
 > python manage.py runserver
 
 5 default it runs on "localhost:8000"
+
 6 admin page is in link
 
 > localhost:8000/admin
