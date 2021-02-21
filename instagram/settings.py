@@ -25,7 +25,7 @@ SECRET_KEY = 'h+2yg_#)2hcf9c=)_c-q)6-1-jxa1y&9lkda*%4q$_15s#b@!('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost','insta-ide.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','insta-ide.herokuapp.com']
 
 
 # Application definition
